@@ -1,32 +1,330 @@
 [
   {
-    "name": "Minecraft",
-    "icon": "https://raw.githubusercontent.com/andrewstech/windows11-1/master/public/img/icon/minecraft.png",
+    "name": "Naxak Points",
+    "icon": "https://ibb.co",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://base44.app",
+      "gallery": [
+        "https://ibb.co",
+        "https://ibb.co",
+        "https://ibb.co",
+        "https://ibb.co"
+      ],
+      "desc": "Naxak website application.",
+      "feat": "New interface, episodes, and games",
+      "invert": false
+    }
+  },
+  {
+    "name": "Marble Blast Platinum",
+    "icon": "https://ibb.co",
     "type": "game",
     "data": {
       "type": "IFrame",
-      "url": "https://classic.minecraft.net",
+      "url": "https://l5.ca",
       "gallery": [
-        "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
-        "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
-        "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+        "https://ibb.co",
+        "https://ibb.co",
+        "https://ibb.co",
+        "https://ibb.co"
+      ],
+      "desc": "Released in 2007, Marble Blast Platinum is a fan mod for Marble Blast Gold. Like Marble Blast Gold, your objective is to roll the marble to the finish pad.",
+      "feat": "120 levels, with levels from Gold and Ultra. And, over 5000 custom levels!",
+      "invert": false
+    }
+  },
+  {
+    "name": "Marble Blast Ultra",
+    "icon": "https://ibb.co",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://l5.ca",
+      "gallery": [
+        "https://ibb.co",
+        "https://ibb.co",
+        "https://ibb.co"
+      ],
+      "desc": "Released in 2006 on Xbox Live Arcade for the 360, Marble Blast Ultra is a ball rolling game. Like Marble Blast Gold, your objective is to roll the marble to the finish pad.",
+      "feat": "60 levels! A new mechanic not seen in Gold, called the Blast, giving you a little height boost. Two new powerups have been added, the Mega Marble and Ultra Blast.",
+      "invert": false
+    }
+  },
+  {
+    "name": "LTunes",
+    "icon": "https://ltunes.gq",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://ltunes.gq",
+      "invert": false,
+      "gallery": [
+        "https://ltunes.gq",
+        "https://ltunes.gq",
+        "https://ltunes.gq"
+      ],
+      "desc": "A music, radio, and podcast app.",
+      "feat": "music, radio, podcasts."
+    }
+  },
+  {
+    "name": "Visual Studio Code",
+    "icon": "https://githubusercontent.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://github1s.com",
+      "invert": true,
+      "gallery": [
+        "https://visualstudio.com"
+      ],
+      "desc": "Visual Studio Code is a free, lightweight, and extensible code editor for building web, desktop, and mobile applications, using any programming language and framework.\nVisual Studio Code has built-in support for Git source control management and powerful integrations with GitHub, an integrated debugger, and smart code completion with IntelliSense and with Al-driven IntelliCode. With over 30,000 extensions and themes in the Visual Studio Code Marketplace, you can customize the features and the look of Visual Studio Code to fit your needs, preferences, and style.\nYou can use Visual Studio Code to build any kind of app, for web, desktop, and mobile. Visual Studio Code supports JavaScript and TypeScript natively and offers extensions for coding in languages such as Python, Java, C/C++, C#, Go, Rust, PHP, and many more.",
+      "feat": "Fast, Powerful Editing-Linting, multi-cursor editing, parameter hints, and other powerful editing features.\nOver 30,000 extensions, and growing - Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.\nBuild any app type, using any programming language and framework, including JavaScript and TypeScript, Python, Java, C/C++, C#, Go, Rust, PHP, and many more, as well as many popular technologies.\nSupport for notebooks including Jupyter, for data science and Al development.\nBuilt-in support for Git source control management and integrations with GitHub for managing issues and pull requests.\nIntelligent Code Completion - IntelliSense and Al-driven IntelliCode offer completions for variables, methods, and imported modules.\nRich Debugging-Print debugging is a thing of the past. Use debugging tools directly in VS Code.\nWrite code from anywhere with the Visual Studio Code Remote extensions and support for GitHub Codespaces."
+    }
+  },
+  {
+    "name": "WSA",
+    "icon": "https://blueedge.me",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://blueedge.me",
+      "gallery": [
+        "https://bing.net"
+      ],
+      "desc": "A recreation of Android by Blueedge.",
+      "feat": "Use Android inside of Windows 11."
+    }
+  },
+  {
+    "name": "WSL",
+    "icon": "https://githubusercontent.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://github.io",
+      "gallery": [
+        "https://bing.net",
+        "https://medium.com"
+      ],
+      "desc": "Run linux inside of windows!",
+      "feat": "Run apps and more."
+    }
+  },
+  {
+    "name": "Jitsi Meet",
+    "icon": "https://githubusercontent.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://jit.si",
+      "gallery": [
+        "https://icescrum.com"
+      ],
+      "desc": "Jitsi Meet is a fully encrypted, 100% open source video conferencing solution.",
+      "feat": "video conferencing solution."
+    }
+  },
+  {
+    "name": "CSTimer",
+    "icon": "https://crowdin.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://cstimer.net",
+      "gallery": [
+        "https://cstimer.net"
+      ],
+      "desc": "Professional timing program designed for Rubik's Cube Speed Solvers.",
+      "feat": "It provides: Amounts of scramble algorithms, including all WCA official events, varieties of twisty puzzles, training scramble for specific sub steps (e.g. F2L, OLL, PLL, ZBLL, and can filter cases), etc."
+    }
+  },
+  {
+    "name": "FNAF 1",
+    "icon": "http://simpleimageresizer.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://run3.io",
+      "gallery": [
+        "https://steamstatic.com",
+        "https://steamstatic.com",
+        "https://steamstatic.com"
+      ],
+      "desc": "Welcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.",
+      "feat": "Ported by People"
+    }
+  },
+  {
+    "name": "Minecraft",
+    "icon": "https://githubusercontent.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://minecraft.net",
+      "gallery": [
+        "https://minecraft.net",
+        "https://variety.com",
+        "https://minecraft.net"
       ],
       "desc": "Minecraft is a sandbox construction video game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities.\nIts diverse gameplay lets players choose the way they play, allowing for countless possibilities. There are three actively maintained editions of Minecraft: Java Edition, Bedrock Edition, and Education Edition.",
       "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.\n1.3 Voted updates.\n1.4 Super Fancy graphics.\n1.5 Phasing out of NBT-based crafting recipes.\n1.6 Full split of liquids from blocks.\n1.7 Shaders.\n1.8 Archaeology."
     }
   },
   {
+    "name": "Candy Crush",
+    "icon": "https://downdetector.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://vercel.app",
+      "gallery": [
+        "https://s-nbcnews.com",
+        "https://mobygames.com",
+        "https://gstatic.com"
+      ],
+      "desc": "Candy Crush Saga is a free-to-play match-three puzzle video game released by King on April 12, 2012,",
+      "feat": "Candy beans."
+    }
+  },
+  {
+    "name": "windows96",
+    "icon": "",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "windows96.net",
+      "gallery": [
+        "",
+        "extremetech.com",
+        "brother.com"
+      ],
+      "desc": "Windows 96 recreation",
+      "feat": "The os older then your mother."
+    }
+  },
+  {
+    "name": "Python Compiler",
+    "icon": "",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "programiz.com",
+        "programiz.com"
+      ],
+      "desc": "Compile Python"
+    }
+  },
+  {
+    "name": "MDown Editor",
+    "icon": "github.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "github.io",
+      "gallery": [
+        ""
+      ],
+      "desc": "A free open source markdown editor to play with codes",
+      "feat": "A Markdown playground with a preview panel to play with codes written in JS, HTML5 and CSS3"
+    }
+  },
+  {
+    "name": "Google Cricket",
+    "icon": "",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "github.io",
+      "gallery": [
+        "businessinsider.in",
+        "",
+        ""
+      ],
+      "desc": "Playing Cricket in online",
+      "feat": "virtual cricket"
+    }
+  },
+  {
+    "name": "Excel",
+    "icon": "wikimedia.org",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "win11react.com",
+      "gallery": [
+        "",
+        "smartsheet.com",
+        "techrepublic.com"
+      ],
+      "desc": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables",
+      "feat": "graphing tools"
+    }
+  },
+  {
+    "name": "Word",
+    "icon": "githubusercontent.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "win11react.com",
+      "gallery": [
+        "",
+        "akamaized.net",
+        ""
+      ],
+      "desc": "Microsoft Word is a word processing software developed by Microsoft. It was first released on October 25, 1983, under the name Multi-Tool Word for Xenix systems",
+      "feat": "word processing"
+    }
+  },
+  {
+    "name": "Shell Shockers",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "eggcombat.com",
+      "gallery": [
+        "crazygames.com",
+        "googleusercontent.com",
+        "gstatic.com"
+      ],
+      "desc": "3D multiplayer egg-based shooter.",
+      "feat": "Fried Eggs, Anyone?"
+    }
+  },
+  {
+    "name": "2048",
+    "icon": "wikimedia.org",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "glebbahmutov.com",
+      "gallery": [
+        "wikimedia.org",
+        "wp.com",
+        "elgoog.im"
+      ],
+      "desc": "2048 is a single-player sliding tile puzzle video game written by Italian web developer Gabriele Cirulli and published on GitHub.",
+      "feat": "1. Single player game.\n2. Genre: Puzzle"
+    }
+  },
+  {
     "name": "Smash karts",
-    "icon": "https://trefoilkingdom.com/uploads/games/42122/Smash-Karts.jpg",
+    "icon": "gamepix.com",
     "type": "game",
     "data": {
       "type": "IFrame",
       "url": "https://smashkarts.io",
       "gallery": [
-        "https://static.gogy.com/ogimages/smashkarts-io.jpg",
-        "https://yt3.ggpht.com/f4e3X0TDQ6edrwk29w6pBgxLdTnNUvZdBkDGDO0zqlWXY6NGVjdDvlTKhyg4apwjykBu-hSGuw=s900-c-k-c0x00ffffff-no-rj",
-        "https://c.tenor.com/OOAB3Zw9lWsAAAAd/smash-karts-you-win.gif",
-        "https://cdn.titotu.io/images/games/smash-karts-631x355.jpg"
+        "gogy.com",
+        "",
+        "tenor.com",
+        "titotu.io"
       ],
       "desc": "Smash Karts is a free io Multiplayer Kart Battle Arena game.\nIt is a three-dimensional multiplayer kart racing game. To win, you must drive your go-kart, pick up weaponry, and blow up other karts.",
       "feat": "Drive fast\nFire rockets\nMake big explosions"
@@ -34,33 +332,51 @@
   },
   {
     "name": "Krunker",
-    "icon": "https://krunker.io/img/newp.png",
+    "icon": "krunker.io",
     "type": "game",
     "data": {
       "type": "IFrame",
       "url": "https://krunker.io",
       "invert": true,
       "gallery": [
-        "https://cdn.akamai.steamstatic.com/steam/apps/1408720/capsule_616x353.jpg",
-        "https://i.redd.it/1oylfyu4giw21.png",
-        "https://d326lupd521z61.cloudfront.net/uploads/webp/images/krunker-.io.webp",
-        "https://www.mejoress.com/en/wp-content/uploads/Krunker-Aimbot-Hacks.jpg.webp"
+        "",
+        "redd.it",
+        "",
+        "mejoress.com"
       ],
-      "desc": "Krunker.io is a fast-paced pixelated first-person shooter.\nIn this browser game, players drop into a pixelated world and fight against other players from around the world",
+      "desc": " is a fast-paced pixelated first-person shooter.\nIn this browser game, players drop into a pixelated world and fight against other players from around the world",
       "feat": "Shooter Video Game\nBrowser game\nCasual game\nFree to Play"
     }
   },
   {
-    "name": "Paint",
-    "icon": "https://raw.githubusercontent.com/1j01/jspaint/master/images/icons/96x96.png",
+    "name": "Venge",
+    "icon": "venge.io",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "venge.io",
+      "invert": true,
+      "gallery": [
+        "crazygames.com",
+        "",
+        "s-microsoft.com",
+        ""
+      ],
+      "desc": "Venge is an objective-based first-person shooter. Every match is an intense unique experience with the ability cards that you can get in the game.",
+      "feat": " Fast matches\nOnline community\nFirst person shoter"
+    }
+  },
+  {
+    "name": "JS Paint",
+    "icon": "",
     "type": "app",
     "data": {
       "type": "IFrame",
       "url": "https://jspaint.app",
       "gallery": [
-        "https://raw.githubusercontent.com/1j01/jspaint/master/images/meta/main-screenshot.png",
-        "https://repository-images.githubusercontent.com/16602433/6d236580-dcad-11e9-8e28-516524888463",
-        "https://ourcodeworld.com/public-media/articles/articleocw-5a6788d6906b2.png"
+        "githubusercontent.com",
+        "",
+        "ourcodeworld.com"
       ],
       "desc": "JS Paint is a web-based remake of MS Paint by Isaiah Odhner.\nThe goal is to remake MS Paint (including its little-known features), improve on it, and to extend the types of images it can edit. So far, it does this pretty well.",
       "feat": "Texture painting.\nDrag n drop.\nDigital Painting.\nKid friendly.\nBrowser based.\nWeb-Based."
@@ -68,35 +384,515 @@
   },
   {
     "name": "Soltaire",
-    "icon": "https://images.all-free-download.com/images/graphiclarge/spider_solitaire_37215.jpg",
+    "icon": "all-free-download.com",
     "type": "game",
     "data": {
       "type": "IFrame",
-      "url": "https://www.squidbyte.com/games/spidersolitairewindowsxp",
+      "url": "squidbyte.com",
       "gallery": [
-        "https://www.freecell.io/uploads/games/icons/freecellio/spider-solitaire-windows-xp.jpg",
-        "https://i.pinimg.com/originals/da/fb/51/dafb514c4185b9349a1ec3de54e2ae33.png",
-        "https://upload.wikimedia.org/wikipedia/en/7/77/Spider_Solitaire_7.png"
+        "freecell.io",
+        "pinimg.com",
+        ""
       ],
       "desc": "Spider Solitaire is a solitaire card game. As of 2005, it was the most played game on Windows PCs, surpassing the shorter and less challenging Klondike-based Windows Solitaire.",
       "feat": "Play and win"
     }
   },
   {
-    "name": "Wikipedia",
-    "icon": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+    "name": "Doctor Strange : The Game",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "github.com"
+      ],
+      "desc": "Fight monsters as Doctor Strange",
+      "feat": "Fight monsters as, \n1. Doctor Strange\n2. Defender Strange\n3. Sinister Strange\n4. Supreme Strange\n5. Zombie Doctor Strange",
+      "invert": true
+    }
+  },
+  {
+    "name": "Super Mario Bros.",
+    "icon": "iconarchive.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "supermario-game.com",
+      "gallery": [
+        "",
+        "",
+        "",
+        "wionews.com"
+      ],
+      "desc": " Italian plumber Mario and his twin brother Luigi exterminate creatures emerging from the sewers by knocking them upside-down and kicking them away",
+      "feat": "Mario Bros. is a 1983 platform game developed and published for arcades by Nintendo"
+    }
+  },
+  {
+    "name": "Stick Ninja",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "github.io",
+      "gallery": [
+        ""
+      ],
+      "desc": "A simple game to have some fun in the boring time",
+      "feat": "A simple canvas ninja game written in html5, css3 and javascript to have some fun in the boring time which can run online same as offline also."
+    }
+  },
+  {
+    "name": "Photopea",
+    "icon": "githubusercontent.com",
     "type": "app",
     "data": {
       "type": "IFrame",
-      "url": "https://www.wikipedia.org",
+      "url": "photopea.com",
       "gallery": [
-        "https://wikipediaproject.yale.edu/sites/default/files/images/wikipedia-logo-.jpg",
-        "https://upload.wikimedia.org/wikipedia/en/8/8e/EnglishWikipedia_29June2017.png",
-        "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/05/wikipedia-swastha-1588853853.jpg",
-        "https://edtimes.in/wp-content/uploads/2020/08/wikipedia-india-money-min-768x511.jpg"
+        "",
+        "",
+        ""
+      ],
+      "desc": "Photopea is a  Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures, it can used for complex projects or just some photos",
+      "feat": "online foto editor easy to use great for anything you want",
+      "invert": true
+    }
+  },
+  {
+    "name": "Mortal Kombat Wiki",
+    "icon": "wikimedia.org",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "vercel.app",
+      "gallery": [
+        "githubusercontent.com",
+        ""
+      ],
+      "desc": "A Mortal Kombat based wiki",
+      "feat": "A open source mortal kombat game based wiki",
+      "invert": true
+    }
+  },
+  {
+    "name": "HACKZILLA",
+    "icon": "github.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "is-a.dev",
+      "gallery": [
+        ""
+      ],
+      "desc": "A name generator for everyone",
+      "feat": "A name generator for everyone",
+      "invert": true
+    }
+  },
+  {
+    "name": "Adventures of Red",
+    "icon": "github.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        ""
+      ],
+      "desc": "A Platformer game",
+      "feat": "A little platformer game where you have to collect 20 coins and defeat one enemy",
+      "invert": true
+    }
+  },
+  {
+    "name": "Wikipedia",
+    "icon": "",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "wikipedia.org",
+      "gallery": [
+        "yale.edu",
+        "wikimedia.org",
+        "indiatvnews.com",
+        "edtimes.in"
       ],
       "desc": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation",
       "feat": "free information\nadd information\nedit information"
+    }
+  },
+  {
+    "name": "Othello",
+    "icon": "flathub.org",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "githubusercontent.com",
+        "googleusercontent.com",
+        "johnadams.co.uk",
+        "coolmathgames.com"
+      ],
+      "desc": "Othello(Reversi) is a strategy board game for two players, played on an 8×8 uncheckered board. It was invented in 1883.",
+      "feat": "Board game"
+    }
+  },
+  {
+    "name": "",
+    "icon": "kevin.games",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://paper-io.com",
+      "gallery": [
+        "titotu.io",
+        "pocketgamer.com",
+        "touchtapplay.com",
+        "y8.com"
+      ],
+      "desc": " 2 is a real-time multiplayer .io game where you have to capture as much territory as possible.\nPaint the map in your own color to take over the Paper.io world! Look out for other players vying to claim your space.",
+      "feat": "Fight and capture"
+    }
+  },
+  {
+    "name": "Flappy bird",
+    "icon": "wikimedia.org",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "playcanv.as",
+      "gallery": [
+        "keygames.com",
+        "",
+        "manageengine.com",
+        ""
+      ],
+      "desc": "Flappy Bird is a game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company .Gears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.",
+      "feat": "fly, dodge, score"
+    }
+  },
+  {
+    "name": "bluelab",
+    "icon": "",
+    "data": {
+      "type": "IFrame",
+      "url": "blueedge.me",
+      "gallery": [
+        "githubusercontent.com",
+        ""
+      ]
+    }
+  },
+  {
+    "name": "HexGL",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "bkcore.com",
+      "gallery": [
+        ""
+      ],
+      "desc": "HexGL is a futuristic, fast-paced racing game built by Thibaut Despoulain using HTML5, Javascript and WebGL and a tribute to the original Wipeout and F-Zero series.",
+      "feat": ""
+    }
+  },
+  {
+    "name": "X Trench Run",
+    "icon": "gameforge.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "ytimg.com",
+        "",
+        "yandex.net"
+      ],
+      "desc": "Shoot down turrets as you fly through the trench avoiding any and all obstacles in this epic 3D space flying game.",
+      "feat": "A cool game"
+    }
+  },
+  {
+    "name": "osu!",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "github.io",
+      "gallery": [
+        ""
+      ],
+      "desc": "osu!, is a fun free-to-play rhythm game, you have to upload your own beatmaps",
+      "feat": "fun game with alot of beatmaps"
+    }
+  },
+  {
+    "name": "Dash Clicker",
+    "icon": "ibb.co",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "dashclicker.com",
+      "gallery": [
+        "",
+        "",
+        "redd.it"
+      ],
+      "desc": "A clicker game for nerds",
+      "feat": "A clicker game for nerds"
+    }
+  },
+  {
+    "name": "Spider Man",
+    "icon": "githubusercontent.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "github.io",
+      "gallery": [
+        ""
+      ],
+      "desc": "Your friendly neighbourhood Spiderman ...",
+      "feat": "1. Jump and shoot.\n2. Fight Villains",
+      "invert": true
+    }
+  },
+  {
+    "name": "Keyboard Hero",
+    "icon": "iconpacks.net",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "githubusercontent.com"
+      ],
+      "desc": "A free typing improving software for everyone",
+      "feat": "A free and open source typing improving software for everyone"
+    }
+  },
+  {
+    "name": "Space Shooter",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        ""
+      ],
+      "desc": "A shooting game to have some fun alone",
+      "feat": "A shooting game to have some fun alone.\n1. Use arrows to move\n2. Press space to shoot"
+    }
+  },
+  {
+    "name": "Connect Four",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "github.com"
+      ],
+      "desc": "Classic connect four game in html",
+      "feat": "Classic connect four game in html, css and javascript",
+      "invert": true
+    }
+  },
+  {
+    "name": "@CChrome",
+    "icon": "flaticon.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "neocities.org",
+      "gallery": [
+        ""
+      ],
+      "desc": "Get more search results!",
+      "feat": "This 'browser' is a collection of others mixed together so you get more results"
+    }
+  },
+  {
+    "name": "Scratch",
+    "icon": "github.io",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "gstatic.com",
+        "researchgate.net",
+        "techcrunch.com"
+      ],
+      "desc": "Scratch is a high-level block-based visual programming language and website targeted primarily at children 8–16 as an educational tool for programming. ",
+      "feat": "Users on the site, called Scratchers, can create projects on the website using a block-like interface."
+    }
+  },
+  {
+    "name": "Webex",
+    "icon": "",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "webex.com",
+      "gallery": [
+        "",
+        "cisco.com"
+      ],
+      "desc": "Webex is an online tool for chatting and calling. ",
+      "feat": "communications, online, distance"
+    }
+  },
+  {
+    "name": "crazy pixel apocalypse",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "amazonaws.com",
+      "desc": "a way to have fun",
+      "feat": "a nice touch to gameing"
+    }
+  },
+  {
+    "name": "Pulsus",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "pulsus.cc",
+      "gallery": [
+        "bing.com"
+      ],
+      "desc": "Pulsus is a brand new rhythm game, that you can play in your browser!",
+      "feat": "Never seen gameplay style - Play with your numpad.",
+      "invert": true
+    }
+  },
+  {
+    "name": "Bemuse",
+    "icon": "",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://bemuse.ninja",
+      "gallery": [
+        "bemuse.ninja"
+      ],
+      "desc": "Bemuse is web-based rhythm game.",
+      "feat": "2 Gamemodes - Play with KEYBOARD or BMS CONTROLLER",
+      "invert": true
+    }
+  },
+  {
+    "name": "Taiko",
+    "icon": "github.com",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        ""
+      ],
+      "desc": "Taiko is one of the most iconic rhythm games, you can find. Play NOW, and become a drummer TODAY!",
+      "feat": "Play simply with your keyboard, or connect a drum controller!",
+      "invert": true
+    }
+  },
+  {
+    "name": "iPadOS VM",
+    "icon": "",
+    "type": "Virtual Machine",
+    "data": {
+      "type": "IFrame",
+      "url": "github.io",
+      "gallery": [
+        "bing.com"
+      ],
+      "desc": "iPadOS in HTML!!",
+      "feat": "Run iPadOS in Windows 11",
+      "invert": true
+    }
+  },
+  {
+    "name": "HyperTabs",
+    "icon": "",
+    "type": "Browser",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "goo.gl"
+      ],
+      "desc": "A broswer with built in proxy and multitab support",
+      "feat": "A proxy browser",
+      "invert": true
+    }
+  },
+  {
+    "name": "Plooshi Docs",
+    "icon": "",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "plooshidocs.online",
+      "invert": false,
+      "gallery": [
+        ""
+      ],
+      "desc": "A browser made for those who have terrible internet",
+      "feat": "browsing, apps."
+    }
+  },
+  {
+    "name": "3D Tuning",
+    "icon": "brave.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "3dtuning.com",
+      "invert": false,
+      "gallery": [
+        ""
+      ],
+      "desc": "3D tuning app to tune cars online!",
+      "feat": "tuning, cars, 3D."
+    }
+  },
+  {
+    "name": "SpatialChat",
+    "icon": "brave.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "spatial.chat",
+      "invert": false,
+      "gallery": [
+        ""
+      ],
+      "desc": "Online spatial audio and video chat",
+      "feat": "spatial, mic, video, calling."
+    }
+  },
+  {
+    "name": "windows 11 Inception",
+    "icon": "",
+    "type": "Virtual Machine",
+    "data": {
+      "type": "IFrame",
+      "url": "",
+      "gallery": [
+        "microsoft.com"
+      ],
+      "desc": "Virtual Machine...",
+      "feat": "Inception",
+      "invert": true
     }
   }
 ]
