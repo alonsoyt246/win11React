@@ -300,6 +300,21 @@ const apps = [
     type: "app",
     action: "DISCORD",
   },
+  {
+    name: "Naxak Points",
+    icon: "naxak",
+    type: "app",
+    action: "NAXAKPOINTS",
+    pwa: true,
+    data: {
+      type: "IFrame",
+      url: "https://base44.app",
+      gallery: ["https://ibb.co"],
+      desc: "Naxak website application.",
+      feat: "New interface, episodes, and games",
+      invert: false,
+    },
+  },
 ];
 
 for (let i = 0; i < installed.length; i++) {
