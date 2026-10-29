@@ -304,15 +304,7 @@ const apps = [
     name: "Naxak Points",
     icon: "naxak",
     type: "app",
-    action: "NAXAKPOINTS",
-    pwa: true,
-    data: {
-      type: "NaxakFrame",
-      url: "https://naxakpoints.base44.app/login",
-      desc: "Naxak website application.",
-      feat: "New interface, episodes, and games",
-      invert: true,
-    },
+    action: "NAXAKAPP",
   },
 ];
 

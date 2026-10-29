@@ -11,6 +11,7 @@ export * from "./apps/discord";
 export * from "./apps/edge";
 export * from "./apps/explorer";
 export * from "./apps/getstarted";
+export * from "./apps/naxak";
 export * from "./apps/notepad";
 export * from "./apps/settings";
 export * from "./apps/spotify";
